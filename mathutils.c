@@ -1,9 +1,3 @@
-/*
- * mathutils.c
- * Implementation of basic math operations
- * ENGG*1410 - Fall 2025
- */
-
 #include <stdio.h>
 #include "mathutils.h"
 
@@ -26,5 +20,4 @@ double divide(int a, int b) {
     }
     return (double)a / b;
 }
-// update for Lab 6
-//branch marker
+
